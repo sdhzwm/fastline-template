@@ -37,7 +37,7 @@ import_from_git(url: 'http://172.16.69.171/ios/iosCom/Templates/fastlane-templat
 
 ## 使用
 
-### 发布公共pod库
+### 发布 私有 pod 库
 
 进入项目的跟目录，然后在终端输入以下命令:
 
