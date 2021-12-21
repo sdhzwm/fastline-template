@@ -32,7 +32,7 @@ sudo gem install -n /usr/local/bin fastlane
 ### 后续后维护具体模板 考虑其复用性
 
 ```ruby
-import_from_git(url: 'http://172.16.69.171/ios/iosCom/Templates/fastlane-templates', branch: 'master')
+import_from_git(url: 'https://www.github.com/sdhzwm/fastline-template.git', branch: 'master')
 ```
 
 ## 使用

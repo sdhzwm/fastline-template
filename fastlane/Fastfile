@@ -52,7 +52,7 @@ lane :czpod do |options|
   push_git_tags
 
 #---------------------------------校验与推送操作------------------------------------------------------------------------#
-czsource = "http://172.16.69.171/ios/iosspecs.git"
+czsource = "http://xxxxxxxxx/ios/iosspecs.git"
 osource = "https://github.com/CocoaPods/Specs.git"
 
 
